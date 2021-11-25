@@ -1,0 +1,13 @@
+/Users/Habob/Projects/AVLTree/AVLTree/bin/Debug/netcoreapp3.1/AVLTree.deps.json
+/Users/Habob/Projects/AVLTree/AVLTree/bin/Debug/netcoreapp3.1/AVLTree.runtimeconfig.json
+/Users/Habob/Projects/AVLTree/AVLTree/bin/Debug/netcoreapp3.1/AVLTree.runtimeconfig.dev.json
+/Users/Habob/Projects/AVLTree/AVLTree/bin/Debug/netcoreapp3.1/AVLTree.dll
+/Users/Habob/Projects/AVLTree/AVLTree/bin/Debug/netcoreapp3.1/AVLTree.pdb
+/Users/Habob/Projects/AVLTree/AVLTree/obj/Debug/netcoreapp3.1/AVLTree.csproj.AssemblyReference.cache
+/Users/Habob/Projects/AVLTree/AVLTree/obj/Debug/netcoreapp3.1/AVLTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Habob/Projects/AVLTree/AVLTree/obj/Debug/netcoreapp3.1/AVLTree.AssemblyInfoInputs.cache
+/Users/Habob/Projects/AVLTree/AVLTree/obj/Debug/netcoreapp3.1/AVLTree.AssemblyInfo.cs
+/Users/Habob/Projects/AVLTree/AVLTree/obj/Debug/netcoreapp3.1/AVLTree.csproj.CoreCompileInputs.cache
+/Users/Habob/Projects/AVLTree/AVLTree/obj/Debug/netcoreapp3.1/AVLTree.dll
+/Users/Habob/Projects/AVLTree/AVLTree/obj/Debug/netcoreapp3.1/AVLTree.pdb
+/Users/Habob/Projects/AVLTree/AVLTree/obj/Debug/netcoreapp3.1/AVLTree.genruntimeconfig.cache
