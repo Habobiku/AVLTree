@@ -7,7 +7,7 @@ namespace AVLTree
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("hui");
             
         }
     }
